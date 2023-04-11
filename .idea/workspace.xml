@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a8091ed-1907-45d5-99cb-cbe8049b04bf" name="Changes" comment="Update">
+    <list default="true" id="1a8091ed-1907-45d5-99cb-cbe8049b04bf" name="Changes" comment="Update Main()">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aegisub.ass" beforeDir="false" afterPath="$PROJECT_DIR$/src/aegisub.ass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/en-text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/en-text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/result.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn-text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/vn-text.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +70,8 @@
       <updated>1680805076058</updated>
       <workItem from="1680805077190" duration="3580000" />
       <workItem from="1681172477836" duration="178000" />
+      <workItem from="1681194880163" duration="697000" />
+      <workItem from="1681213879653" duration="672000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1681172566487</created>
@@ -82,14 +80,33 @@
       <option name="project" value="LOCAL" />
       <updated>1681172566487</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update Main()">
+      <created>1681182192620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681182192620</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Update Main()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Main()" />
   </component>
 </project>

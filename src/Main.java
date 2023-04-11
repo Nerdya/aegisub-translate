@@ -69,23 +69,21 @@ public class Main {
 
         if ((vnReaderLine = vnReader.readLine()) != null) {
           // Merging vn-text line to writer line
-          int indexToMergeText;
           if (foundStyle || foundName) {
-            indexToMergeText = text.lastIndexOf('}');
+            int indexToMergeText = line.lastIndexOf('}');
+            System.out.print(indexToMergeText + " ");
             if (indexToMergeText != -1) {
-              if (countOccurrences(text, '}') > 1) {
+              if (countOccurrences(line, '}') > 1) {
                 prefixLine = line.substring(0, indexToMergeText + 2) + " ";
               } else {
                 prefixLine = line.substring(0, indexToMergeText + 1);
               }
+              System.out.println(prefixLine);
               resultLine = prefixLine + vnReaderLine;
             }
           } else {
-            indexToMergeText = findIndexOfNthOccurOfChar(line, ',', 9);
-            if (indexToMergeText != -1) {
-              prefixLine = line.substring(0, indexToMergeText + 1);
-              resultLine = prefixLine + vnReaderLine;
-            }
+            prefixLine = line.substring(0, indexOf9thComma + 1);
+            resultLine = prefixLine + vnReaderLine;
           }
         }
       }
