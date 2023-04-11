@@ -31,8 +31,8 @@ Style: Overlap,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.48,Main,Sign,0,0,0,,{\fnArial\b1\fs12\shad0\fay-.03\c&H99A89D&\3c&HFCFFBe Strict with Yourself, but Kind to Othersasdasdasdasd
-Dialogue: 0,0:00:00.00,0:00:02.48,Main,Sign,0,0,0,,{\fs8\frz-90\shad0\b1\c&HACA68D&\3c&Congrats to the Baseball Team \Non Making Regional Semifinals
+Dialogue: 0,0:00:00.00,0:00:02.48,Main,Sign,0,0,0,,{\fnArial\b1\fs12\shad0\fay-.03\c&H99A89D&\3c&HFCFFFD&\move(142.546,157.454,126.546,155.999)\t(\fs13)}Be Strict with Yourself, but Kind to Othersasdasdasdasd
+Dialogue: 0,0:00:00.00,0:00:02.48,Main,Sign,0,0,0,,{\fs8\frz-90\shad0\b1\c&HACA68D&\3c&HFEFFFD&\move(399.273,217.818,405,219.818)\t(\fs9)}Congrats to the Baseball Team \Non Making Regional Semifinals
 Dialogue: 0,0:00:02.96,0:00:05.39,Main,Girl A,0,0,0,,Hey, wanna play at my house today?
 Dialogue: 0,0:00:05.39,0:00:06.42,Main,Girl B,0,0,0,,Huh, are you sure?
 Dialogue: 0,0:00:06.42,0:00:07.19,Main,Girl A,0,0,0,,Yeah, come on over!
@@ -72,8 +72,8 @@ Dialogue: 0,0:01:26.44,0:01:28.34,Main,Takada,0,0,0,,I need you here, Nishimura-
 Dialogue: 0,0:01:28.34,0:01:30.09,Main,Nishimura,0,0,0,,O-Okay.
 Dialogue: 0,0:01:30.09,0:01:31.29,Main,Takada,0,0,0,,I really mean it!
 Dialogue: 0,0:01:31.29,0:01:33.48,Main,Nishimura,0,0,0,,O-Okay already!
-Dialogue: 0,0:03:00.03,0:03:03.99,Main,Sign,0,0,0,,{\fad(1872,1)\an8\fs24\fnArial\shad0\3c&HFCFFFC&\c&H000000&\bord1\blur1\pos(321.334,190.666)}My {\b1\c&H1100CD&}C{\c&HC3C52C&}lu My Clueless First Friend
-Dialogue: 0,0:03:04.62,0:03:10.04,Main,Sign,0,0,0,,{\fad(440,830)\i1\an3\fnArial\shad0\fs14\c&H51504A&\ Episode 2 "Lunch Duty and Ghost Photographs and Love Letters"
+Dialogue: 0,0:03:00.03,0:03:03.99,Main,Sign,0,0,0,,{\fad(1872,1)\an8\fs24\fnArial\shad0\3c&HFCFFFC&\c&H000000&\bord1\blur1\pos(321.334,190.666)}My {\b1\c&H1100CD&}C{\c&HC3C52C&}lue{\c&H1100CD&}l{\c&HC3C52C&}ess{\b0} {\c&H000000&} My Clueless First Friend
+Dialogue: 0,0:03:04.62,0:03:10.04,Main,Sign,0,0,0,,{\fad(440,830)\i1\an3\fnArial\shad0\fs14\c&H51504A&\3c&HEEEEEE&\pos(598.484,282.969)}Episode 2 {\fs20} Episode 2 "Lunch Duty and Ghost Photographs and Love Letters"
 Dialogue: 0,0:03:05.03,0:03:07.45,Main,Takada,0,0,0,,Curry! Curry!
 Dialogue: 0,0:03:07.45,0:03:10.12,Main,Takada,0,0,0,,Curry! Curry!
 Dialogue: 0,0:03:10.12,0:03:11.35,Main,Takada,0,0,0,,I can't wait!
@@ -106,7 +106,7 @@ Dialogue: 0,0:04:15.51,0:04:18.65,Main,Takada,0,0,0,,Kitagawa-kun sure is a weir
 Dialogue: 0,0:04:22.26,0:04:24.59,Main,Nishimura,0,0,0,,T-Takada-kun.
 Dialogue: 0,0:04:25.17,0:04:28.09,Main,Nishimura,0,0,0,,Um... thank you.
 Dialogue: 0,0:04:28.09,0:04:29.70,Main,Takada,0,0,0,,Huh? For what?
-Dialogue: 0,0:04:30.12,0:04:32.12,Main,Sign,0,0,0,,{\fnArial\b1\shad0\pos(258.909,109.273)\bMilk
+Dialogue: 0,0:04:30.12,0:04:32.12,Main,Sign,0,0,0,,{\fnArial\b1\shad0\pos(258.909,109.273)\bord1\frz330.3\frx326\fry316\c&H6568EF&\3c&H827796&}Milk
 Dialogue: 0,0:04:32.58,0:04:34.90,Main,Child A,0,0,0,,Who's in for rock-paper-scissors\N for the last milk?
 Dialogue: 0,0:04:34.90,0:04:36.40,Main,Children,0,0,0,,Me!
 Dialogue: 0,0:04:35.10,0:04:36.65,Overlap,Kitagawa,0,0,0,,Me!
@@ -114,15 +114,15 @@ Dialogue: 0,0:04:36.65,0:04:39.00,Main,Kitagawa,0,0,0,,Heck yeah! I'm gonna win 
 Dialogue: 0,0:04:39.00,0:04:40.50,Main,Hino,0,0,0,,Looks like my time has come.
 Dialogue: 0,0:04:41.92,0:04:43.58,Main,Takada,0,0,0,,Oh, man! Let's hurry!
 Dialogue: 0,0:04:43.58,0:04:47.04,Main,Nishimura,0,0,0,,Wait. I don't need two cartons of milk.
-Dialogue: 0,0:04:47.05,0:04:50.72,Main,Sign,0,0,0,,{\fs18\fnComic Sans MS\pos(405.091,69.273)\3c&H84A6C0&\4c&H84A6C0&}Thi{\3c&H95D4A0&\4c&H95D4A0&}s Mo{\3c&H94CDCD&\4c&H94CDCD&}nth'{\3c&H This Month's Goal
-Dialogue: 0,0:04:47.05,0:04:50.72,Main,Sign,0,0,0,,{\fnComic Sans MS\shad0\bord0\an1\fs14\c&H829398&\b1\pos( Let's all get along!
+Dialogue: 0,0:04:47.05,0:04:50.72,Main,Sign,0,0,0,,{\fs18\fnComic Sans MS\pos(405.091,69.273)\3c&H84A6C0&\4c&H84A6C0&}Thi{\3c&H95D4A0&\4c&H95D4A0&}s Mo{\3c&H94CDCD&\4c&H94CDCD&}nth'{\3c&HBBBCA7&\4c&HBBBCA7&}s Go{\3c&HB194C3&\4c&HB194C3&} This Month's Goal
+Dialogue: 0,0:04:47.05,0:04:50.72,Main,Sign,0,0,0,,{\fnComic Sans MS\shad0\bord0\an1\fs14\c&H829398&\b1\pos(478.363,91.091)}Let's all get along!{bottom black} Let's all get along!
 Dialogue: 0,0:04:47.48,0:04:49.54,Main,Takada,0,0,0,,All righty. I'm going for it! I won't lose!
 Dialogue: 0,0:04:49.54,0:04:50.73,Main,Children,0,0,0,,Today's the day!
 Dialogue: 0,0:04:54.93,0:04:57.94,Main,Takada,0,0,0,,I was so close in milk \Nrock-paper-scissors...
 Dialogue: 0,0:04:57.94,0:05:01.90,Main,Nishimura,0,0,0,,T-Takada-kun, do you want my milk?
 Dialogue: 0,0:05:01.90,0:05:02.95,Main,Takada,0,0,0,,I can have it?!
 Dialogue: 0,0:05:02.95,0:05:03.91,Main,Takada,0,0,0,,Thanks!
-Dialogue: 0,0:05:03.90,0:05:06.91,Main,Sign,0,0,0,,{\an1\fs16\fnArial\shad0\3c&HFCFFFC&\c&H040805&\bord0\pos(71.516,28.5 My Clueless First Friend
+Dialogue: 0,0:05:03.90,0:05:06.91,Main,Sign,0,0,0,,{\an1\fs16\fnArial\shad0\3c&HFCFFFC&\c&H040805&\bord0\pos(71.516,28.545)}My {\b1\c&H1100CD&}Clueless{\b0} {\c&H040805&} My Clueless First Friend
 Dialogue: 0,0:05:07.82,0:05:09.16,Main,Takada,0,0,0,,Nishimura-san!
 Dialogue: 0,0:05:09.86,0:05:12.03,Main,Takada,0,0,0,,Wanna take photos together?
 Dialogue: 0,0:05:12.03,0:05:16.03,Main,Nishimura,0,0,0,,S-Sure, but that came out of nowhere.
@@ -168,7 +168,7 @@ Dialogue: 0,0:07:15.15,0:07:17.88,Main,Takada,0,0,0,,Maybe it's 'cause I'm with 
 Dialogue: 0,0:07:18.46,0:07:23.34,Main,Takada,0,0,0,,Just being with her puts a smile on my face.
 Dialogue: 0,0:07:24.14,0:07:25.40,Main,Takada,0,0,0,,What's wrong?
 Dialogue: 0,0:07:26.06,0:07:28.47,Main,Nishimura,0,0,0,,It... It's nothing.
-Dialogue: 0,0:07:29.42,0:07:32.30,Main,Sign,0,0,0,,{\fad(650,1)\an3\fs16\fnArial\shad0\3c&HFCFFFC&\c&H040805&\bord0\pos(573.334, My Clueless First Friend
+Dialogue: 0,0:07:29.42,0:07:32.30,Main,Sign,0,0,0,,{\fad(650,1)\an3\fs16\fnArial\shad0\3c&HFCFFFC&\c&H040805&\bord0\pos(573.334,30)}My {\b1\c&H1100CD&}Clueless{\b0} {\c&H040805&} My Clueless First Friend
 Dialogue: 0,0:07:33.35,0:07:34.80,Main,Takada,0,0,0,,I'm home!
 Dialogue: 0,0:07:37.67,0:07:41.77,Main - Italics,Yukiko,0,0,0,,My little brother in fifth grade\N brought home a girl.
 Dialogue: 0,0:07:42.64,0:07:46.89,Main,Yukiko,0,0,0,,Um... Who's this, Taiyou?
@@ -207,20 +207,20 @@ Dialogue: 0,0:09:15.87,0:09:17.62,Main,Yukiko,0,0,0,,T-Taiyou!
 Dialogue: 0,0:09:18.97,0:09:21.58,Main,Nishimura,0,0,0,,Th-Thanks.
 Dialogue: 0,0:09:21.92,0:09:25.69,Main - Italics,Yukiko,0,0,0,,Sh-She's beet red!
 Dialogue: 0,0:09:25.69,0:09:28.24,Main - Italics,Yukiko,0,0,0,,How cute can you get? What an angel!
-Dialogue: 0,0:09:28.58,0:09:30.84,Main,Sign,0,0,0,,{\fnArial\fs10\shad0\an7HP \NMP \NSpeed \NDefense\N Recovery
-Dialogue: 0,0:09:28.58,0:09:30.84,Main,Sign,0,0,0,,{\fnArial\fsAre you sure?
-Dialogue: 0,0:09:28.58,0:09:30.84,Main,Sign,0,0,0,,{\fnArial\fsYes\NNo
-Dialogue: 0,0:09:28.58,0:09:30.84,Main,Sign,0,0,0,,{\fnArial\fBack
+Dialogue: 0,0:09:28.58,0:09:30.84,Main,Sign,0,0,0,,{\fnArial\fs10\shad0\an7\c&H535788&\blur4\pos(405.637,104.909)\3c&HE9F9FF&}HP \NMP \NSpeed \NDefense\N Recovery
+Dialogue: 0,0:09:28.58,0:09:30.84,Main,Sign,0,0,0,,{\fnArial\fs10\shad0\bord0\an1\c&H4E4943&\pos(326.363,178.363)}Are you sure?
+Dialogue: 0,0:09:28.58,0:09:30.84,Main,Sign,0,0,0,,{\fnArial\fs10\shad0\bord0\an7\c&H4E4943&\pos(377.273,193.636)}Yes\NNo
+Dialogue: 0,0:09:28.58,0:09:30.84,Main,Sign,0,0,0,,{\fnArial\fs10\shad0\bord0\an1\c&H535788&\pos(231.818,83.818)}Back
 Dialogue: 0,0:09:29.53,0:09:30.84,Main,Takada,0,0,0,,Hey, hey!
 Dialogue: 0,0:09:30.84,0:09:33.35,Main,Takada,0,0,0,,This character looks like you.
 Dialogue: 0,0:09:33.35,0:09:35.67,Main,Nishimura,0,0,0,,Huh? Y-You think?
 Dialogue: 0,0:09:35.67,0:09:36.73,Main,Takada,0,0,0,,Yeah!
 Dialogue: 0,0:09:36.73,0:09:38.06,Main - Italics,Yukiko,0,0,0,,Taiyou...
 Dialogue: 0,0:09:38.06,0:09:43.33,Main - Italics,Yukiko,0,0,0,,Your big sister... really loves \Nwatching scenes like this play out.
-Dialogue: 0,0:09:43.81,0:09:46.81,Main,Sign,0,0,0,,{\an1\fs16\fnArial\shad0\3c&HFCFFFC&\c&H040805&\bord0\pos(80.971,52.5 My Clueless First Friend
-Dialogue: 0,0:09:46.81,0:09:48.81,Main,Sign,0,0,0,,{\fnArial\sTheme\NYour favorite word
+Dialogue: 0,0:09:43.81,0:09:46.81,Main,Sign,0,0,0,,{\an1\fs16\fnArial\shad0\3c&HFCFFFC&\c&H040805&\bord0\pos(80.971,52.545)}My {\b1\c&H1100CD&}Clueless{\b0} {\c&H040805&} My Clueless First Friend
+Dialogue: 0,0:09:46.81,0:09:48.81,Main,Sign,0,0,0,,{\fnArial\shad0\bord0\an7\c&HFFFCF4&\be.2\pos(433.273,46.001)}Theme\NYour favorite word
 Dialogue: 0,0:09:48.80,0:09:50.38,Main,Sensei,0,0,0,,Okay, get started!
-Dialogue: 0,0:09:48.81,0:09:52.48,Main,Sign,0,0,0,,{\fnArial\shad0\Theme\NYour favorite word
+Dialogue: 0,0:09:48.81,0:09:52.48,Main,Sign,0,0,0,,{\fnArial\shad0\fs14\bord0\an7\c&HFFFCF4&\be.2\pos(522.727,48.183)}Theme\NYour favorite word
 Dialogue: 0,0:09:51.02,0:09:52.47,Main,Students,0,0,0,,What?
 Dialogue: 0,0:09:52.94,0:09:54.73,Main - Top,Students,0,0,0,,I really have no idea.
 Dialogue: 0,0:09:54.73,0:09:55.76,Main,Kitagawa,0,0,0,,Hi-yah!
@@ -258,7 +258,7 @@ Dialogue: 0,0:10:53.18,0:11:00.00,Main,Nishimura,0,0,0,,I... don't like dark and
 Dialogue: 0,0:11:00.00,0:11:03.50,Main,Nishimura,0,0,0,,So I like words that are the total opposite.
 Dialogue: 0,0:11:03.50,0:11:06.69,Main,Nishimura,0,0,0,,Like "hikari" (light) or "taiyou" (sun)...
 Dialogue: 0,0:11:07.30,0:11:08.39,Main,Nishimura,0,0,0,,Oh.
-Dialogue: 0,0:11:08.39,0:11:10.64,Main,Sign,0,0,0,,{\fay-.2\frz5.922\fnArial\b1\shad0\c&H202223&\3c&HF9Takada Taiyou
+Dialogue: 0,0:11:08.39,0:11:10.64,Main,Sign,0,0,0,,{\fay-.2\frz5.922\fnArial\b1\shad0\c&H202223&\3c&HF9F3ED&\move(320.727,36.545,292.363,61.272)\t(\fs22)}Takada Taiyou
 Dialogue: 0,0:11:08.80,0:11:10.64,Main,Nishimura,0,0,0,,Ah... Er...
 Dialogue: 0,0:11:10.64,0:11:13.16,Main,Nishimura,0,0,0,,I, uh... U-Um...
 Dialogue: 0,0:11:13.16,0:11:14.84,Main,Takada,0,0,0,,You like sunshine?
@@ -272,11 +272,11 @@ Dialogue: 0,0:11:26.30,0:11:29.12,Main,Hino,0,0,0,,It's real bad, you two. Help 
 Dialogue: 0,0:11:29.12,0:11:30.23,Main,Takada,0,0,0,,What's the matter?
 Dialogue: 0,0:11:30.23,0:11:33.37,Main,Hino,0,0,0,,I don't know how to write "tank top" in kanji.
 Dialogue: 0,0:11:34.43,0:11:36.53,Main,Nishimura,0,0,0,,Can't you just use katakana?
-Dialogue: 0,0:11:37.00,0:11:42.01,Main,Sign,0,0,0,,{\an1\fs16\fnArial\shad0\3c&HFCFFFC&\c&H040805&\bord0\pos(92.607,45.2 My Clueless First Friend
-Dialogue: 0,0:11:37.00,0:11:42.01,Main,Sign,0,0,0,,{\fnTimes New Roman\fsTanku Toppu
-Dialogue: 0,0:11:37.00,0:11:42.01,Main,Sign,0,0,0,,{\fnTimes New Roman\fs8DARK DANCER
-Dialogue: 0,0:11:37.00,0:11:42.01,Main,Sign,0,0,0,,{\fnTimes New Roman\fs8Sunshine
-Dialogue: 0,0:11:37.00,0:11:42.01,Main,Sign,0,0,0,,{\fnTimes New Roman\fs8Love
+Dialogue: 0,0:11:37.00,0:11:42.01,Main,Sign,0,0,0,,{\an1\fs16\fnArial\shad0\3c&HFCFFFC&\c&H040805&\bord0\pos(92.607,45.272)}My {\b1\c&H1100CD&}Clueless{\b0} {\c&H040805&} My Clueless First Friend
+Dialogue: 0,0:11:37.00,0:11:42.01,Main,Sign,0,0,0,,{\fnTimes New Roman\fs8\shad0\c&H363838&\3c&HF5FEFF&\pos(418.91,198.727)}Tanku Toppu
+Dialogue: 0,0:11:37.00,0:11:42.01,Main,Sign,0,0,0,,{\fnTimes New Roman\fs8\shad0\c&H363838&\3c&HF5FEFF&\pos(472.728,195.818)}DARK DANCER
+Dialogue: 0,0:11:37.00,0:11:42.01,Main,Sign,0,0,0,,{\fnTimes New Roman\fs8\shad0\c&H363838&\3c&HF5FEFF&\pos(525.092,195.818)}Sunshine
+Dialogue: 0,0:11:37.00,0:11:42.01,Main,Sign,0,0,0,,{\fnTimes New Roman\fs8\shad0\c&H363838&\3c&HF5FEFF&\pos(576.001,197.272)}Love
 Dialogue: 0,0:11:43.52,0:11:44.26,Main,Nishimura,0,0,0,,What?
 Dialogue: 0,0:11:44.26,0:11:46.01,Main,Nishimura,0,0,0,,Takada-kun caught a cold?
 Dialogue: 0,0:11:46.01,0:11:50.02,Main,Hino,0,0,0,,Yeah. He said he's too \Nsick to hang out today.
@@ -304,9 +304,9 @@ Dialogue: 0,0:12:55.37,0:12:57.57,Main,Takada,0,0,0,,You're not bothering me at 
 Dialogue: 0,0:12:57.57,0:13:00.18,Main,Takada,0,0,0,,I'm really glad you two came over.
 Dialogue: 0,0:13:02.58,0:13:03.63,Main - Italics,Hino,0,0,0,,Told ya.
 Dialogue: 0,0:13:03.63,0:13:05.55,Main,Nishimura,0,0,0,,Hino-kun!
-Dialogue: 0,0:13:05.88,0:13:08.89,Main,Sign,0,0,0,,{\an3\fs16\fnArial\shad0\3c&HFCFFFC&\c&H040805&\bord0\pos(589.334,30.7 My Clueless First Friend
-Dialogue: 0,0:13:13.43,0:13:15.35,Main,Sign,0,0,0,,{\fnArial\shad0\fs12\fNanba
-Dialogue: 0,0:13:13.43,0:13:15.35,Main,Sign,0,0,0,,{\fnArial\shad0\fsNishimura
+Dialogue: 0,0:13:05.88,0:13:08.89,Main,Sign,0,0,0,,{\an3\fs16\fnArial\shad0\3c&HFCFFFC&\c&H040805&\bord0\pos(589.334,30.727)}My {\b1\c&H1100CD&}Clueless{\b0} {\c&H040805&} My Clueless First Friend
+Dialogue: 0,0:13:13.43,0:13:15.35,Main,Sign,0,0,0,,{\fnArial\shad0\fs12\fay-.2\c&H72828D&\3c&HE8FBF9&\b1\pos(37.091,263.09)}Nanba
+Dialogue: 0,0:13:13.43,0:13:15.35,Main,Sign,0,0,0,,{\fnArial\shad0\fs14\fay.3\c&H29333F&\3c&HA4B4C6&\b1\pos(512,78.363)}Nishimura
 Dialogue: 0,0:13:16.77,0:13:19.56,Main,Takada,0,0,0,,N-N-Nishimura-san!
 Dialogue: 0,0:13:21.54,0:13:26.70,Main,Takada,0,0,0,,N-Nishimura-san, wait, is that...
 Dialogue: 0,0:13:26.70,0:13:28.59,Main,Takada,0,0,0,,a love letter?!
@@ -349,7 +349,7 @@ Dialogue: 0,0:15:24.42,0:15:25.93,Main,Nishimura,0,0,0,,I mean, you're unstoppab
 Dialogue: 0,0:15:25.93,0:15:28.16,Main,Takada,0,0,0,,I'm unstoppable? That rules!
 Dialogue: 0,0:15:28.16,0:15:31.52,Main,Takada,0,0,0,,Does that mean I possess \NGrim Reaper powers now?!
 Dialogue: 0,0:15:32.35,0:15:34.29,Main,Nishimura,0,0,0,,You really are unstoppable...
-Dialogue: 0,0:15:34.74,0:15:37.75,Main,Sign,0,0,0,,{\an1\fs16\fnArial\shad0\3c&HFCFFFC&\c&H040805&\bord0\pos(96.971,49.636)\t(1730,2270,\frz My Clueless First Friend
+Dialogue: 0,0:15:34.74,0:15:37.75,Main,Sign,0,0,0,,{\an1\fs16\fnArial\shad0\3c&HFCFFFC&\c&H040805&\bord0\pos(96.971,49.636)\t(1730,2270,\frz-5)}My {\b1\c&H1100CD&}Clueless{\b0} {\c&H040805&} My Clueless First Friend
 Dialogue: 0,0:15:48.07,0:15:49.68,Main,Yukiko,0,0,0,,Nishimura-san!
 Dialogue: 0,0:15:50.22,0:15:51.28,Main,Nishimura,0,0,0,,Ah.
 Dialogue: 0,0:15:51.28,0:15:53.54,Main,Nishimura,0,0,0,,Hello there, Yukiko-san.
@@ -396,7 +396,7 @@ Dialogue: 0,0:17:48.86,0:17:52.09,Main,Nishimura,0,0,0,,Th-Thank you so much!
 Dialogue: 0,0:17:53.90,0:17:56.49,Main,Yukiko,0,0,0,,You really are cute in that.
 Dialogue: 0,0:17:56.49,0:17:58.84,Main,Yukiko,0,0,0,,I want to show Taiyou as soon as possible.
 Dialogue: 0,0:18:01.84,0:18:03.61,Main,Yukiko,0,0,0,,You're just the cutest thing.
-Dialogue: 0,0:18:06.10,0:18:09.10,Main,Sign,0,0,0,,{\an1\fs16\fnArial\shad0\3c&HFCFFFC&\c&H040805&\bord0\pos(85.334,33.6 My Clueless First Friend
+Dialogue: 0,0:18:06.10,0:18:09.10,Main,Sign,0,0,0,,{\an1\fs16\fnArial\shad0\3c&HFCFFFC&\c&H040805&\bord0\pos(85.334,33.636)}My {\b1\c&H1100CD&}Clueless{\b0} {\c&H040805&} My Clueless First Friend
 Dialogue: 0,0:18:12.09,0:18:13.81,Main,Takada,0,0,0,,A bad luck aura?
 Dialogue: 0,0:18:13.81,0:18:16.76,Main,Kitagawa,0,0,0,,It's another one of Nishimura's curses.
 Dialogue: 0,0:18:16.76,0:18:20.07,Main,Kitagawa,0,0,0,,You get bad luck when \Nyou hang out with the Grim Reaper.
@@ -470,6 +470,6 @@ Dialogue: 0,0:23:18.70,0:23:19.55,Main,Nishimura,0,0,0,,What?
 Dialogue: 0,0:23:20.41,0:23:24.21,Main,Takada,0,0,0,,Oh! I don't mean that black \Ndoesn't look good on you!
 Dialogue: 0,0:23:24.21,0:23:29.02,Main,Takada,0,0,0,,It's way high on the coolness scale,\Nand white ranks on the cuteness scale.
 Dialogue: 0,0:23:28.17,0:23:30.44,Main - Top,Nishimura,0,0,0,,I-I get it already!
-Dialogue: 0,0:23:34.97,0:23:39.97,Main,Sign,0,0,0,,{\shad0\bord0\b1\an8\fnArial\c&H000000 Next time...
-Dialogue: 0,0:23:34.97,0:23:39.97,Main,Sign,0,0,0,,{\fSummer Vacation Begins
-Dialogue: 0,0:23:34.97,0:23:39.97,Main,Sign,0,0,0,,{\fnComic Sans MS\shad0\b1\frx2Please adopt me
+Dialogue: 0,0:23:34.97,0:23:39.97,Main,Sign,0,0,0,,{\shad0\bord0\b1\an8\fnArial\c&H000000&\pos(518,79.334)}Next time{\fnComic Sans MS\fs30} Next time...
+Dialogue: 0,0:23:34.97,0:23:39.97,Main,Sign,0,0,0,,{\fnComic Sans MS\shad0\b1\c&H000100&\3c&HFDFFFD&\an7}Summer Vacation Begins
+Dialogue: 0,0:23:34.97,0:23:39.97,Main,Sign,0,0,0,,{\fnComic Sans MS\shad0\b1\frx20\c&H0A0500&\3c&H58D4F5&\fs18\pos(469.636,330.363)}Please adopt me

@@ -74,7 +74,7 @@ public class Main {
             System.out.print(indexToMergeText + " ");
             if (indexToMergeText != -1) {
               if (countOccurrences(line, '}') > 1) {
-                prefixLine = line.substring(0, indexToMergeText + 2) + " ";
+                prefixLine = line.substring(0, indexToMergeText + 1) + " ";
               } else {
                 prefixLine = line.substring(0, indexToMergeText + 1);
               }
